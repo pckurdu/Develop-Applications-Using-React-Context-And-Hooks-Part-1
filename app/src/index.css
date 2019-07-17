@@ -1,0 +1,21 @@
+body {
+  background: #63cdda;
+}
+
+.App{
+  background: #22a6b3;
+  margin:20px auto;
+  width:90%;
+  max-width:700px;
+  color:#eee;
+}
+
+.navbar{
+  padding:10px 20px;
+  text-align:center;
+  background: #e77f67;
+}
+
+.navbar h1{
+  margin: 10px 0;
+}
